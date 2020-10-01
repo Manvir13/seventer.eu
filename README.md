@@ -1,4 +1,4 @@
-# seventer.eu
+# Seventer.eu - An Amazing Project
 
 ## Project setup
 ```
